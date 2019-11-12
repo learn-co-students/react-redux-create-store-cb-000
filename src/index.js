@@ -1,3 +1,4 @@
+// index.js
 import { createStore } from 'redux'
 import counterReducer from './reducers/counterReducer'
  
